@@ -12,19 +12,19 @@ Everything inside the `public` folder is under CC-BY-SA 3.0.
 ### Install
 
 ```bash
-npm install
+bun i
 ```
 
 ### Development
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 ### Build
 
 ```bash
-npm run build
+bun run build
 ```
 
 Output directory: `dist`
@@ -32,7 +32,7 @@ Output directory: `dist`
 ### Preview
 
 ```bash
-npm run preview
+bun run preview
 ```
 
 ## Legacy Version
